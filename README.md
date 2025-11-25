@@ -1,8 +1,13 @@
 # Favourite Movies
 
 - The Matrix - Pete
+- Star Wars - Azfer
+- Star Wars - Ian
+- Jackie Brown - Steve
+- Children of Men - Craig
 - Sinners  - Mohammad
 - The Nice Guys - Grant
 - Interstellar - Simon
 - The Godfather - Lino
 - After the Hunt - Mohammad
+- Charlie Brown Christmas Movie - Duncan
